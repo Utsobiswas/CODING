@@ -1,3 +1,5 @@
+ ( ![github-header-image (1)](https://github.com/user-attachments/assets/1d151538-ed31-452d-b919-1a621700e253)
+                                                                                                                                                                                                                  
 <h1 align="center">Hi 👋, I'm Utso Biswas</h1>
 <h3 align="center">CSE Freshman | Code Enthusiast</h3>	
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
